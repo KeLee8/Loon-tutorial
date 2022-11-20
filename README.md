@@ -239,7 +239,7 @@ MitM （Man in the Middle Attack）
 
 ![image](https://user-images.githubusercontent.com/89105781/202916184-73e551dc-8e97-4e93-aba6-16a7dca56de9.png)
 
-证书绝对安全的 不用担心会有脏东西
+证书绝对安全的 不用担心会有脏东西（在Safari打开！！！
 
 # @7 如何使用网路共享
 QR：
@@ -251,6 +251,7 @@ R:就是通过热点让别的设备被代理
 于主页打开[网路共享] （表现为一个绿点） 点击[网路共享]将Http地址粘贴至其他设备的WiFi链接高级设置即可
 
 
+# 结语
 好了以上就是全部教学内容 如有错误请TG找我指正
 
 我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
