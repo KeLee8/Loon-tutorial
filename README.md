@@ -7,6 +7,8 @@
 
 我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
 
+我的Twitter：[点击一键关注](https://mobile.twitter.com/mengyulianmian)
+
 首先强调本教程是完全免费且公开的，请看完免责声明后进行学习，感谢采用本教学
 
 # 免责声明 
@@ -28,6 +30,8 @@ MengRain 对任何本仓库中包含的脚本在使用中可能出现的问题�
 本片教学使用的是Loon TF版本【3.0.0(485)】以后更新新的版本我也会对本教学继续更新
 
 Loon俗称热气球，气球，小气球 是一款网路代理软件，但是上手最近更新了商店版的3.0新玩家骤然增加 所以应群友要求我编写了本教程
+
+PS.本配置写于2022.11.21
 
 # 注意
 本教程基于 [MengRain的配置](https://github.com/MengYuLianMian/Loon-configuration-file-MengRain) 展开
@@ -230,14 +234,20 @@ MitM （Man in the Middle Attack）
 
 证书绝对安全的 不用担心会有脏东西
 
-# @7 如何看日志
+# @7 如何使用网路共享
+QR：
+
+Q:什么是网路共享？
+
+R:就是通过热点让别的设备被代理
+
+于主页打开[网路共享] （表现为一个绿点） 点击[网路共享]将Http地址粘贴至其他设备的WiFi链接高级设置即可
 
 
+好了以上就是全部教学内容 如有错误请TG找我指正
 
+我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
 
+我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
 
-
-
-
-
-
+我的Twitter：[点击一键关注](https://mobile.twitter.com/mengyulianmian)
