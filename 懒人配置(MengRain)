@@ -5,3 +5,12 @@
 带CN分流的版本：https://raw.githubusercontent.com/MengYuLianMian/Loon-configuration-file-MengRain/main/Loon%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%EF%BC%88%E5%B8%A6CN%E7%89%88%EF%BC%89
 
 无模块纯享版：https://raw.githubusercontent.com/MengYuLianMian/Loon-configuration-file-MengRain/main/Loon%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%EF%BC%88%E6%97%A0%E6%A8%A1%E5%9D%97%E7%BA%AF%E5%87%80%E7%89%88%EF%BC%89
+
+PS A.标准版自带模块，分流等常用基础功能 但是依旧需要使用者手动调试（比如Netflix走新加坡之类的 总之就是改成最适合你的）
+
+PS B.带CN分流的版本是指将中国的分流规则提取出来的策略版本（标准版也有，但是标准版是自动）
+适用于同样居于海外需要代理回中国的朋友（部分中国App非大陆无法访问完整内容）所以按需选择吧
+
+PS C.无模块纯享版是在标准版的基础上删去模块的配置文件，因为部分玩家认为模块太耗电所以干脆不开
+
+PS D.*带CN分流的版本*与*无模块纯享版*均仅维护不更新 标准版正常维护更新
