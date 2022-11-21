@@ -1,3 +1,13 @@
+Q：如何使用图标库？
+
+R：点击【策略】选择【图标】点击右下角【➕】于URL弹窗中写入图标的URL
+
+导入成功后可以选择任意一个图标给｛策略｝及｛模块｝
+
+PS.他们的替换方式都是长按需要修改的内容后弹出
+
+附上图标库：
+
 # > Qure图标库，请手动添加图标订阅（黑白）
 ; https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
 
