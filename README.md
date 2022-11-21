@@ -73,6 +73,8 @@ PS 1.若无法成功导入请打开资源解析器（最底下那个）我的配
 
 PS 2.UDP，Fast Open，Vmess Aead按需打开
 
+PS 3.若机场为提供Loon一键导入，请复制 原 订阅链接至Loon（若依旧无法使用请打开资源解析器并更新节点的订阅）
+
 ![image](https://user-images.githubusercontent.com/89105781/202912573-2240dca9-1360-45c4-aea0-23ac1f546b20.png)
 
 第三步：选择右上角的勾保存
