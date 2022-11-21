@@ -1,0 +1,10 @@
+⚠️Loon不支持直接使用Clash订阅，如果你只有Clash订阅，可以通过开始节点解析器来使用。
+
+1.复制这条链接 
+https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/dist/sub-store-parser.loon.min.js
+
+2.打开Loon→[配置]→[高级配置]→[资源解析连接]
+
+3.粘贴后点击[完成]
+
+4.重新添加订阅的同时并开启[资源解析连接]即可
