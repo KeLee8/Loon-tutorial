@@ -1,0 +1,28 @@
+因为插件仓库的插件不包含所有的插件 所以列举些常用的吧
+
+【节点流媒体检测插件】
+说明：本插件用于检测某个节点是否支持某个流媒体会员的解锁
+链接：https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin
+使用：安装插件，重启loon app，然后到策略组页面，随便选择一个节点长按就会出来了。
+Wiki：无（我没找到）
+
+【BoxJs】
+说明：BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环境下的脚本
+链接：https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
+使用：如果你使用的是 v2.1.19 (385) 及以上的版本，你可以直接一键安装（点这里：https://api.boxjs.app/loon-install）
+安装成功后于safari打开 http://boxjs.com 然后添加到桌面即可
+Wiki：https://docs.boxjs.app/
+
+【Sub store】
+说明：高级订阅管理工具，支持 iOS 上所有主流代理软件 具体内容看下面：
+1. URI，QX，Loon，Surge，Clash格式互相转换，超过60种订阅格式 (SS/SSR/VMESS/VLESS/SOCKS5/TROJAN/HTTP(S)/SNELL)支持。
+2. 组合多个订阅。
+3. 订阅过滤。
+4. 订阅重命名。
+5. 订阅排序等。
+6. 注意：订阅转换完全在本地进行，完全不存在订阅泄露的风险。
+链接：https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin
+使用：使用上方链接后于Safari访问 https://sub.store添加到桌面，之后就可以添加订阅了。注意修改
+订阅之后需要手动保存。订阅界面单击可以预览节点，右侧菜单复制链接到APP即可使用。【网页只是提供UI操作，订阅操作是完全离线的】
+则，完全安全！！！
+Wiki：https://github.com/Peng-YM/Sub-Store

@@ -1,5 +1,0 @@
-本插件用于检测某个节点是否支持某个流媒体会员的解锁
-
-https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/MediaCheck.plugin
-
-安装插件，重启loon app，然后到策略组页面，随便选择一个节点长按就会出来了。
