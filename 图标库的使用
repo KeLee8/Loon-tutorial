@@ -8,17 +8,37 @@ PS.他们的替换方式都是长按需要修改的内容后弹出
 
 附上图标库：
 
-# > Qure图标库，请手动添加图标订阅（黑白）
-; https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
+Qure图标库（黑白）
+https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
 
-# > Qure图标库，请手动添加图标订阅（彩色）
-; https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json
+Qure图标库（彩色）
+❶https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json
+❷https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
 
-# > Orz-3图标库，请手动添加图标订阅（Color+）
-; https://github.com/Orz-3/mini/raw/master/Color%2B.json
+Qure图标（mini）
+https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json
 
-# > Orz-3图标库，请手动添加图标订阅（mini icons）
-; https://github.com/Orz-3/mini/raw/master/mini.json
+Orz-3图标库（mini style）
+https://github.com/Orz-3/mini/raw/master/mini.json
+Orz-3图标库（big style）
+https://github.com/Orz-3/mini/raw/master/Color%2B.json
+Orz-3图标库（mini color）
+https://raw.githubusercontent.com/Orz-3/mini/master/miniColor.json
 
-# > Orz-3图标库，请手动添加图标订阅（mini Color）
-; https://raw.githubusercontent.com/Orz-3/mini/master/miniColor.json
+
+泡泡图标
+https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/other/Cute.json
+
+其他
+https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/PokemonGo.json
+
+https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json （作者链接有问题）换链接：https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Icon/Collection/Tubiao.json
+
+小猫咪
+❶https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/d9790e7036861013a4c8fd51990888b1674b9ee1/maomi.json
+
+❷https://raw.githubusercontent.com/Yuanxsxs/QtumultX/master/Icon/Catcat.json
+
+姿势图标
+1️⃣https://github.com/LovedGM/Quantumult-X-TuBiao/raw/main/zishi.json
+2️⃣ https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs.json
