@@ -7,7 +7,6 @@
 
 我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
 
-我的Twitter：[点击一键关注](https://mobile.twitter.com/mengyulianmian)
 
 首先强调本教程是完全免费且公开的，请看完免责声明后进行学习，感谢采用本教学
 
