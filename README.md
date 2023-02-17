@@ -1,12 +1,5 @@
 # 前言
-嘿 这里是MengRain
-
 本篇是Loon的教学旨在方便大家上手（有帮助的话点个关注吧）
-
-我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
-
-我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
-
 
 首先强调本教程是完全免费且公开的，请看完免责声明后进行学习，感谢采用本教学
 
